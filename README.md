@@ -6,9 +6,6 @@ A simple web application for converting between different units of measurement (
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -26,5 +23,4 @@ To get started, simply clone the repository to your local machine:
 
 ```sh
 git clone https://github.com/your-username/unit-conversions.git
-# unit-conversions
-A simple web application for converting between different units of measurement (temperature, weight, and distance).(as part of IBM full-stack JavaScript certificate)
+
